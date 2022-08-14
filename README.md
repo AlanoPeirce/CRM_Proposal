@@ -2,9 +2,7 @@
 
 The attached document is an extremely detailed and thorough proposal for a new Customer Relationship Management (CRM) solution that will replace the American Video Game Company's current outdated CRM software.
 
-&nbsp;
-
-![Storyboard](https://user-images.githubusercontent.com/110432500/184520528-e3eaac4c-3bfd-4aef-b410-5874f8c15294.png)
+![Storyboard](https://user-images.githubusercontent.com/110432500/184520763-0f8d53c3-8d47-430d-9178-8dcfeae0fa46.png)
 
 <p align="center">
   First-layer storyboard of the proposed CRM solution
@@ -21,5 +19,7 @@ The proposal includes:
 * Numerous other aspects not named here
 
 &nbsp;
+
+<p>&nbsp;</p>
 
 (Disclaimer: The American Video Game Company is a fictitious organization.)
