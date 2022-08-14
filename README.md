@@ -5,12 +5,12 @@ This project is an extremely detailed and thorough proposal for a new Customer R
 ![Storyboard](https://user-images.githubusercontent.com/110432500/184520763-0f8d53c3-8d47-430d-9178-8dcfeae0fa46.png)
 
 <p align="center">
-  First-layer storyboard of the proposed CRM solution
+  <b>First-layer storyboard of the proposed CRM solution</b>
 </p>
 
 &nbsp;
 
-The proposal includes: 
+**The proposal includes:**
 * A discussion of the prerequisites required before development can begin
 * The scope and capabilities of the proposed solution
 * A thorough explanation of the chosen software methodology
@@ -19,7 +19,5 @@ The proposal includes:
 * Numerous other aspects not named here
 
 &nbsp;
-
-<p>&nbsp;</p>
 
 (Disclaimer: The American Video Game Company is a fictitious organization.)
