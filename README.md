@@ -1,6 +1,6 @@
 # Proposal for a CRM Solution
 
-The attached document is an extremely detailed and thorough proposal for a new Customer Relationship Management (CRM) solution that will replace the American Video Game Company's current outdated CRM software.
+This project is an extremely detailed and thorough proposal for a new Customer Relationship Management (CRM) solution that will replace the American Video Game Company's current outdated CRM software.
 
 ![Storyboard](https://user-images.githubusercontent.com/110432500/184520763-0f8d53c3-8d47-430d-9178-8dcfeae0fa46.png)
 
